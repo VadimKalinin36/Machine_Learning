@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u043B\u0430\u0432\u0440\u043E\u0432\\machine learning\\mlimagemodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}",
+      "RelativeMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|solutionrelative:mlimagemodel.mbconfig||{93FA4DC3-61EC-47AF-B0BA-50CAD3CAF049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u043B\u0430\u0432\u0440\u043E\u0432\\machine learning\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u043B\u0430\u0432\u0440\u043E\u0432\\machine learning\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u043B\u0430\u0432\u0440\u043E\u0432\\machine learning\\models\\modellabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|solutionrelative:models\\modellabel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u043B\u0430\u0432\u0440\u043E\u0432\\machine learning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u043B\u0430\u0432\u0440\u043E\u0432\\machine learning\\machine learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|solutionrelative:machine learning.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u043B\u0430\u0432\u0440\u043E\u0432\\machine learning\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A073514F-103A-448F-9D15-5A546856E439}|Machine Learning.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MLImageModel.mbconfig",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\MLImageModel.mbconfig",
+              "RelativeDocumentMoniker": "MLImageModel.mbconfig",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\MLImageModel.mbconfig",
+              "RelativeToolTip": "MLImageModel.mbconfig",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|",
+              "WhenOpened": "2024-02-20T06:47:51.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModelLabel.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Models\\ModelLabel.cs",
+              "RelativeDocumentMoniker": "Models\\ModelLabel.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Models\\ModelLabel.cs",
+              "RelativeToolTip": "Models\\ModelLabel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T06:53:04.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Machine Learning.csproj",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Machine Learning.csproj",
+              "RelativeDocumentMoniker": "Machine Learning.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Machine Learning.csproj",
+              "RelativeToolTip": "Machine Learning.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T06:47:09.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T14:18:21.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T13:17:00.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T11:12:52.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041C\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u0442\u0443\u0440\u0430\\\u041B\u0430\u0432\u0440\u043E\u0432\\Machine Learning\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAArwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T15:50:37.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
